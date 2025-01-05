@@ -1,0 +1,1 @@
+This repository demonstrates a subtle but common bug in bash scripting related to word splitting. The `bug.sh` file shows the incorrect approach, while `bugSolution.sh` provides the corrected version.  Improper handling of word splitting can lead to unexpected behavior and security vulnerabilities. The solution uses arrays to correctly process the input string.
